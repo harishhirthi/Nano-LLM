@@ -17,7 +17,7 @@ This LLM is based on Decoder-only Architecture to generate text from the given p
 
 [Shakespeare Plays](https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays)
 
-[Book]()
+[Book](Data/Book.txt)
 
 ## Contains one file and two folders:
 * Nano_LLM.ipynb - Notebook about LLM for the given prompt
